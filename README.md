@@ -1,30 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	
-</head>
-<body>
-	<div align="center">
-	<p>将进酒 | 送友人 | 静夜思</p>
-	<hr />
-		<img src="images/将进酒插图.png" alt="图片显示失败：原因是图片不存在">
-		<h1>将进酒</h1>
-		<p>君不见，黄河之水天上来，奔流到海不复回。
-		<p>君不见，高堂明镜悲白发，朝如青丝暮成雪。
-		<p>人生得意须尽欢，莫使金樽空对月。
-		<p>天生我材必有用，千金散尽还复来。
-		<p>烹羊宰牛且为乐，会须一饮三百杯。
-		<p>岑夫子<sup>1</sup>，丹丘生<sup>2</sup>，将进酒，杯莫停。
-		<p>与君歌一曲，请君为我倾耳听。
-		<p>钟鼓馔玉不足贵，但愿长醉不复醒。
-		<p>古来圣贤皆寂寞，惟有饮者留其名。
-		<p>陈王昔时宴平乐，斗酒十千恣欢谑。
-		<p>主人何为言少钱，径须沽取对君酌。
-		<p>五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。
-	    <hr />
-	    <p>1.岑夫子:人名</p>
-	    <p>2.丹丘生:人名</p>
-	</div>
-</body>
-</html>
+## Welcome！
+
+You can use the [editor on GitHub](https://github.com/jialChenVIP/CSUCSE-DCNgroup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jialChenVIP/CSUCSE-DCNgroup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
